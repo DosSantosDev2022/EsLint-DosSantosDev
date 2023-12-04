@@ -14,13 +14,13 @@
 
 Install dependencies:
 ```
-npm i -D eslint @dossantosdev/eslint-dossantosdev
+npm i -D eslint @dossantosdev-packages/eslint-dossantosdev
 ```
 Inside `.eslintrc.json`
 ```
 {
   "extends": [
-    "@dossantosdev/eslint-dossantosdev/next", 
+    "@dossantosdev-packages/eslint-dossantosdev/next", 
     "next/core-web-vitals"
   ]
 }
@@ -30,12 +30,12 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @dossantosdev/eslint-dossantosdev
+npm i -D eslint @dossantosdev-packages/eslint-dossantosdev
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@dossantosdev/eslint-dossantosdev/react"
+  "extends": "@dossantosdev-packages/eslint-dossantosdev/react"
 }
 ```
 
@@ -43,11 +43,11 @@ Inside `.eslintrc.json`
 
 Install dependencies:
 ```
-npm i -D eslint @dossantosdev/eslint-dossantosdev
+npm i -D eslint @dossantosdev-packages/eslint-dossantosdev
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@dossantosdev/eslint-dossantosdev/node"
+  "extends": "@dossantosdev-packages/eslint-dossantosdev/node"
 }
 ```
