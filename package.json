@@ -1,12 +1,12 @@
 {
   "name": "@dossantosdev/eslint-dossantosdev",
   "version": "1.0.0",
-  "private" : false,
+  "private": false,
   "description": "ESlint configuration used by DosSantosDev",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": ""
+    "url": "git+https://github.com/DosSantosDev2022/EsLint-DosSantosDev.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
