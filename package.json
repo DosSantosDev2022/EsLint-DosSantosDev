@@ -1,5 +1,5 @@
 {
-  "name": "@dossantosdev/eslint-dossantosdev",
+  "name": "@dossantosdev-packages/eslint-dossantosdev",
   "version": "1.0.0",
   "private": false,
   "description": "ESlint configuration used by DosSantosDev",
